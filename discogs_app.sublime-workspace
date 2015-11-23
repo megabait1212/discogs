@@ -1,0 +1,1188 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Market",
+				"MarketplaceListing	struct ʈ"
+			],
+			[
+				"Imag",
+				"ImageURL	string ν"
+			],
+			[
+				"Image",
+				"imageURL	string ν"
+			],
+			[
+				"Im",
+				"ImageURL	string ν"
+			],
+			[
+				"Print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"token",
+				"tokenCheck	AccessToken ν"
+			],
+			[
+				"toke",
+				"tokenJSON	[]byte ν"
+			],
+			[
+				"oau",
+				"oauthConsumer	*oauth.Consumer ν"
+			],
+			[
+				"http",
+				"httpClient	*http.Client ν"
+			],
+			[
+				"Searc",
+				"SearchParams	struct ʈ"
+			],
+			[
+				"Art",
+				"ArtistService	struct ʈ"
+			],
+			[
+				"Curr",
+				"CurrentIncludeRecommendedUpdates"
+			],
+			[
+				"Update",
+				"UpdateStatus"
+			],
+			[
+				"Noti",
+				"NotificationLevel"
+			],
+			[
+				"Not",
+				"NotificationLevel"
+			],
+			[
+				"serv",
+				"serverlist-processed"
+			],
+			[
+				"total",
+				"total_conns"
+			],
+			[
+				"Mo",
+				"ModTime	time.Time ƒ"
+			],
+			[
+				"time",
+				"timeString	string ν"
+			],
+			[
+				"HEA",
+				"HEADER"
+			],
+			[
+				"HEAD",
+				"HEADER_TO"
+			],
+			[
+				"Job",
+				"JobId	string ν"
+			],
+			[
+				"List",
+				"ListJobs	[]glacier.Job, string, error ƒ"
+			],
+			[
+				"Ini",
+				"InitiateInventoryJob	string, error ƒ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Describe",
+				"DescribeVault	*glacier.Vault, error ƒ"
+			],
+			[
+				"USWest",
+				"USWest2	*aws.Region ν"
+			],
+			[
+				"US",
+				"USWest1	*aws.Region ν"
+			],
+			[
+				"file",
+				"filePath	string ν"
+			],
+			[
+				"drop",
+				"dropboxFunction	 ƒ"
+			],
+			[
+				"test",
+				"testFile	file *os.File ƒ"
+			],
+			[
+				"tes",
+				"testFile	file *os.File ƒ"
+			],
+			[
+				"Pin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"FSc",
+				"Fscanln	n int, err error ƒ"
+			],
+			[
+				"Sca",
+				"Scanln	n int, err error ƒ"
+			],
+			[
+				"Sc",
+				"Scanln	n int, err error ƒ"
+			],
+			[
+				"term",
+				"termwidth	 package ρ"
+			],
+			[
+				"std",
+				"Stdout	*os.File ν"
+			],
+			[
+				"errors",
+				"errors	 package ρ"
+			],
+			[
+				"hand",
+				"Handler	interface ¡"
+			],
+			[
+				"Hea",
+				"Header	map[string][]string ʈ"
+			],
+			[
+				"master",
+				"masterPlaylist	*m3u8.MasterPlaylist ν"
+			],
+			[
+				"e",
+				"e	*ec2.EC2 ν"
+			],
+			[
+				"Sprint",
+				"Sprintf	string ƒ"
+			],
+			[
+				"Panic",
+				"PanicMatches	gocheck.Checker ν"
+			],
+			[
+				"instan",
+				"instancesProper	ec2.Instance ν"
+			],
+			[
+				"inst",
+				"instances1	 ν"
+			],
+			[
+				"Err",
+				"errorDump	 ν"
+			],
+			[
+				"insta",
+				"instancesProper	ec2.Instance ν"
+			],
+			[
+				"getInsta",
+				"getInstance	instance ec2.Instance ƒ"
+			],
+			[
+				"get",
+				"getCreds	auth aws.Auth ƒ"
+			],
+			[
+				"U",
+				"USEast	aws.Region ν"
+			],
+			[
+				"New",
+				"New	*ec2.EC2 ƒ"
+			],
+			[
+				"F",
+				"Filter	struct ʈ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"N",
+				"New	*ec2.EC2 ƒ"
+			],
+			[
+				"Asso",
+				"AssociateEC2AddressResp	struct ʈ"
+			],
+			[
+				"Auth",
+				"Auth	struct ʈ"
+			],
+			[
+				"Get",
+				"GetMetaData	contents []byte, err error ƒ"
+			],
+			[
+				"ASso",
+				"AssociateEC2Address	struct ʈ"
+			],
+			[
+				"ec2",
+				"ec2Connection	*ec2.EC2 ν"
+			],
+			[
+				"Instanc",
+				"Instance	struct ʈ"
+			],
+			[
+				"Fata",
+				"Fatalf	 ƒ"
+			],
+			[
+				"Instances",
+				"InstancesResp	struct ʈ"
+			],
+			[
+				"fata",
+				"Fatalf	 ƒ"
+			],
+			[
+				"priv",
+				"PrivateIpAddress	string ν"
+			],
+			[
+				"name",
+				"nameSuffix	string ν"
+			],
+			[
+				"Priv",
+				"PrivateIpAddress	string ν"
+			],
+			[
+				"i",
+				"InstanceId	string ν"
+			],
+			[
+				"Set",
+				"SetOutput	 ƒ"
+			],
+			[
+				"SPrin",
+				"Sprintf	string ƒ"
+			],
+			[
+				"volum",
+				"volume-creation"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"myListW",
+				"myListWidget2	statement"
+			],
+			[
+				"Exit",
+				"exit"
+			],
+			[
+				"myLis",
+				"myListWidget2	statement"
+			],
+			[
+				"myListWid",
+				"myListWidget2	statement"
+			],
+			[
+				"connect",
+				"connect	Signal/Slot >> Odl Syntax"
+			],
+			[
+				"save",
+				"save"
+			],
+			[
+				"Open",
+				"Open	statement"
+			],
+			[
+				"suppo",
+				"supportedImageFormats	function"
+			],
+			[
+				"setMax",
+				"setMaximumWidth	function"
+			],
+			[
+				"Qt",
+				"Qt	class"
+			],
+			[
+				"QDec",
+				"QtDeclarative"
+			],
+			[
+				"Qdecl",
+				"QDeclarativeView	class"
+			],
+			[
+				"QtDe",
+				"QDeclarativeView"
+			],
+			[
+				"num",
+				"numproducers	statement"
+			],
+			[
+				"start_n",
+				"start_new_thread	function"
+			],
+			[
+				"statusite",
+				"statusitem	statement"
+			],
+			[
+				"thr",
+				"_thread"
+			],
+			[
+				"_exi",
+				"_exit	import"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client.go",
+			"settings":
+			{
+				"buffer_size": 11488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cli/main.go",
+			"settings":
+			{
+				"buffer_size": 7606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "marketplace_listing.go",
+			"settings":
+			{
+				"buffer_size": 5528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "marketplace_order_messages.go",
+			"settings":
+			{
+				"buffer_size": 1944,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "user_collection_folder.go",
+			"settings":
+			{
+				"buffer_size": 821,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "marketplace_order.go",
+			"settings":
+			{
+				"buffer_size": 2575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dfoltin/Documents/go/github.com/mrjones/oauth/oauth.go",
+			"settings":
+			{
+				"buffer_size": 25311,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 105.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"make sni",
+				"SnippetMaker: Make Snippet"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/cli"
+	],
+	"file_history":
+	[
+		"/Users/dfoltin/Library/Application Support/Sublime Text 3/Packages/User/cheat-sheets/Regular Expressions.cheatsheet",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/test/main.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_collection_fields.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_collection_folder.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_wants.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_collection_folder_releases.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_collection_folders.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/marketplace_price_suggestions.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/marketplace_fee.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/marketplace_order.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/marketplace_order_messages.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs_app.sublime-project",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/artist.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/marketplace_listing.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_inventory.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/identity.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_contributions.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/user_submissions.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/image.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/cli/test.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/label.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/master.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/master_versions.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/label.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/client.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/identity.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/label_releases.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/artist.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/release.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/cli/artist.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/dev/test2.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/search.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/main.go",
+		"/Users/dfoltin/Documents/go/umedia.com/transcoderstartup/transcoderStartup.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/oauth.go",
+		"/Users/dfoltin/Documents/go/github.com/kurrik/oauth1a/oauth1a.go",
+		"/Users/dfoltin/Downloads/rsync.sh",
+		"/Users/dfoltin/.ssh/known_hosts",
+		"/Users/dfoltin/Documents/go/github.com/mrjones/oauth/oauth.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/dev/oauth.go",
+		"/Users/dfoltin/Documents/go/github.com/dmikalova/discogs/discogs/test2.go",
+		"/Users/dfoltin/Downloads/delete/go-github/github/github.go",
+		"/Users/dfoltin/Documents/host-datastore-map.txt",
+		"/Users/dfoltin/Documents/powershell-remoting-status-ips.txt",
+		"/Users/dfoltin/Documents/scripts/powershell-remoting-status-ips.txt",
+		"/Users/dfoltin/Documents/scripts/remote-os-detection-output.txt",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/dsc/files/default/dsc_resource_kit_brightcove/BrightcoveResources/DSCResources/Brightcove_WindowsActivation/Brightcove_WindowsActivation.psm1",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/dsc/files/default/dsc_resource_kit_brightcove/BrightcoveResources/DSCResources/Brightcove_WindowsActivation/Brightcove_WindowsActivation.schema.mof",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/dsc/files/default/dsc_resource_kit_brightcove/BrightcoveResources/DSCResources/Brightcove_WindowsActivation/Brightcove_WindowsActivation.psd1",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/dsc/recipes/getdscresourcekit.rb",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/bct_windows/recipes/disableIIESC.rb",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/dsc/files/default/dsc_resource_kit_brightcove/StackExchangeResources/DSCResources/StackExchange_Timezone/StackExchange_Timezone.psm1",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/bct_windows/recipes/activatewindows.rb",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/bct_windows/recipes/timezone.rb",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/bct_windows/recipes/default.rb",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/tools/powershell-scripts/test-remote-powershell/test-remote-powershell.ps1",
+		"/Users/dfoltin/Documents/powershell-remoting-status.txt",
+		"/Users/dfoltin/bithub.brightcove.com/tempe-infrastructure/chef-repo/cookbooks/dsc/files/default/dsc_resource_kit_brightcove/BrightcoveResources/DSCResources/Brightcove_WindowsActivation1/Brightcove_WindowsActivation1.psm1",
+		"/Users/dfoltin/Dropbox/DSC Resource Kit Brightcove/StackExchangeResources/DSCResources/StackExchange_Timezone/StackExchange_Timezone.psd1",
+		"/Users/dfoltin/Dropbox/DSC Resource Kit Brightcove/StackExchangeResources/DSCResources/StackExchange_Timezone/StackExchange_Timezone.psm1",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/User/BeautifyRuby.sublime-settings",
+		"/Users/david/temp/chef-repo/.chef/knife.rb",
+		"/Users/david/Chef Notes",
+		"/Users/david/chef-repo-training/cookbooks/users/recipes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/users/recipes/groups.rb",
+		"/Users/david/chef-repo-training/roles/apache-webserver.rb",
+		"/Users/david/chef-repo-training/roles/base.rb",
+		"/Users/david/chef-repo-training/cookbooks/chef-client/attributes/default.rb",
+		"/Users/david/.zshrc",
+		"/Users/david/chef-repo-training/cookbooks/ip-logger/recipes/default.rb",
+		"/Users/david/chef-repo-training/data_bages/users/bobo.json",
+		"/Users/david/chef-repo-training/data_bages/users/frank.json",
+		"/Users/david/chef-repo-training/data_bages/groups/clowns.json",
+		"/Users/david/chef-repo-training/cookbooks/apache/templates/default/custom.erb",
+		"/Users/david/chef-repo-training/cookbooks/apache/templates/default/index.html.erb",
+		"/Users/david/chef-repo-training/cookbooks/apache/recipes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/apache/attributes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/motd/metadata.rb",
+		"/Users/david/chef-repo-training/cookbooks/pci/attributes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/motd/templates/default/motd.erb",
+		"/Users/david/chef-repo-training/cookbooks/apache/metadata.rb",
+		"/Users/david/chef-repo/cookbooks/apache/files/default/index.html",
+		"/Users/david/chef-repo/cookbooks/apache/recipes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/validation-deleter/recipes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/motd/recipes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/motd/attributes/default.rb",
+		"/Users/david/chef-repo-training/cookbooks/apache/files/default/index1.html",
+		"/Users/david/Downloads/652fbc92b1400e5df38753b63b48d8c7/Habits [124641496].txt",
+		"/Users/david/Documents/home-network-map",
+		"/Users/david/Documents/available-hosts",
+		"/Users/david/Documents/new-vms.txt",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/david/grep-temp",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/david/.profile",
+		"/Users/david/Downloads/net-snmp-5.7.2.1/README",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/User/cheat-sheets/Regular Expressions.cheatsheet",
+		"/Users/david/Documents/go/umedia.com/transcoderstartup/transcoderStartup.go",
+		"/Users/david/Documents/serverlist-final-sorted",
+		"/Users/david/Documents/serverlist-final-all",
+		"/Users/david/Documents/serverlist-transform2.sh",
+		"/Users/david/Documents/serverlist-processed1-edit",
+		"/Users/david/Documents/serverlist-processed",
+		"/Users/david/Documents/serverlist-transform1.sh",
+		"/Users/david/Documents/serverlist-raw",
+		"/Users/david/Documents/serverlist-processed-edit",
+		"/Users/david/chef-repo/.chef/cookbooks/apache/templates/default/index.html.erb",
+		"/Users/david/chef-repo/.chef/cookbooks/lamp.sh",
+		"/Users/david/chef-repo/lamp.sh",
+		"/Users/david/Downloads/Blocks That Matter mac 1.1.0.3/README/README.txt",
+		"/Users/david/Documents/scripts/monthly-analytics-backup.sh",
+		"/Users/david/Documents/go/umedia.com/glacierAnalytics/glacierAnalytics_test.go",
+		"/Users/david/Documents/go/umedia.com/glacierAnalytics/glacierAnalytics.go",
+		"/Users/david/Documents/go/github.com/rdwilliamson/aws/glacier/jobs_test.go",
+		"/Users/david/Documents/go/github.com/rdwilliamson/aws/glacier/jobs.go",
+		"/Users/david/Documents/scripts/email-install2",
+		"/Users/david/Documents/scripts/email.sh",
+		"/Users/david/Documents/scripts/ssmtp-install-centos",
+		"/Users/david/Documents/go/umedia.com/glacierAnalytics/glacier_test.go",
+		"/Users/david/Documents/go/umedia.com/glacierAnalytics/glacier.go",
+		"/Users/david/Documents/go/umedia.com/glacier/glacier_test.go",
+		"/Users/david/Documents/go/umedia.com/glacier/glacier.go",
+		"/Users/david/Documents/go/umedia.com/glacier-upload/glacier_test.go",
+		"/Users/david/Documents/go/umedia.com/glacier-upload/glacier-upload.go",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".*sg.*\\n",
+			" OnceAPI OnceUX",
+			".com\\n",
+			"\\d\\d\\d\\..*\\n",
+			"Octopus was able to .*\\n",
+			".iso",
+			"listingID",
+			"MarketPlaceListingEdit",
+			"Post",
+			"MarketplaceListingPost",
+			"condition",
+			"Mint (M)",
+			"condition",
+			"method",
+			"httpEx",
+			"httpEx]",
+			"httpEx",
+			"make",
+			"body",
+			"httpExecute",
+			"poster",
+			"UserCollectionFields",
+			"userCollectionFields",
+			"userCollection",
+			"UserCollectionFolder",
+			"Releases",
+			"Folder",
+			"UserCollectionFolder",
+			"UserCollectionFolders",
+			"userCollectionFolders",
+			"UserCollectionFolders",
+			"Inventory",
+			"MarketplacePriceSuggestions",
+			"marketplacePriceSuggestion",
+			"marketplaceFee",
+			"MarketplaceOrder",
+			"Messages",
+			"Order",
+			"MarketplaceOrder",
+			"marketplaceOrder",
+			"MarketplaceOrder",
+			"type MarketplaceOrderMessages struct {\n",
+			"MarketplaceOrder",
+			"Listing",
+			".\n",
+			"Orders",
+			"listing",
+			"Listing",
+			"user",
+			"User",
+			"user",
+			"User",
+			"Inventory",
+			"username",
+			"Inventory",
+			"Contributions",
+			"User",
+			"submissions",
+			"Submissions",
+			"file := \"/Users/dfoltin/.config/discogs/auth.json\"\n	tokenJSON, _ := json.MarshalIndent(token, \"\", \"	\")\n\n	err := ioutil.WriteFile(file, tokenJSON, 0644)\n	if err != nil {\n		panic(err)\n	}",
+			"\\n",
+			".*large\\n",
+			" \\| ",
+			"Storage/Mirror",
+			"storage",
+			"\".{1,50}\\n",
+			"rsync:.{1,30}\"",
+			".",
+			".Body",
+			"httpReq",
+			".Get",
+			"oob",
+			"httpResp",
+			"httpRe",
+			"debug",
+			"Redirect",
+			"profileIn",
+			"oauthCfg",
+			"t := &oauth.Transport{ Config: oauthCfg }",
+			"label",
+			"Label",
+			"Servoce",
+			"Release",
+			"release",
+			"Check",
+			" ) Do",
+			"type Response",
+			"Response",
+			"\\t..\\tx",
+			"\\tEnabled",
+			"\\tEnabled.*\\n",
+			"\\tEnabled\\n",
+			".*Offline\\n",
+			".*Disabled\\n",
+			"\\tLinux",
+			"\\tDisabled",
+			".*\\tOffline.*\\n",
+			".*\\tEnabled.*\\n",
+			"\\tWindows.*",
+			".*Linux\\n",
+			".*Offline\\n",
+			"109.132",
+			"Windows",
+			"Windows ",
+			"\\tDisabled",
+			".*Enabled.*\\n",
+			".*Enabled.*",
+			"199.30.11[01].*\\n",
+			".*Offline.*\\n",
+			"255",
+			"WhatIf",
+			"What",
+			"function Set",
+			"[:].*",
+			"\n",
+			"; ",
+			"",
+			"jjunker",
+			"GetUserPo",
+			".//",
+			"jjunker",
+			".//",
+			"packer",
+			"\\n",
+			" 22",
+			" 40",
+			" 39",
+			" 38"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			".com\\t",
+			"",
+			"Order",
+			"order",
+			"Orders",
+			"contributions",
+			"Contributions",
+			", ",
+			"",
+			"\\n",
+			"Mirror",
+			"Storage",
+			"\" ~/storage; ",
+			"cp -R \"",
+			"",
+			"; ",
+			"\n",
+			" ",
+			"",
+			"	e5620",
+			"",
+			"echo ",
+			"\"",
+			"\"]=\"",
+			"]=\"",
+			"\"",
+			"	[",
+			"",
+			" ",
+			"\"",
+			"199.30.108.130",
+			"",
+			"\"$ip\"",
+			"ip",
+			"",
+			"198",
+			"197",
+			"196",
+			"195",
+			"187",
+			"186",
+			"185",
+			"s38",
+			"oas37",
+			"199.30.109.184",
+			" ",
+			" echo \"template\" | sudo -S ",
+			"",
+			"\"199.30.109.215:3128\"",
+			"199.30.109.215:3128",
+			"winUI",
+			"writerUI",
+			"Printf",
+			"IP",
+			"ID",
+			"IP",
+			"ID",
+			"SetEIP",
+			"setEIP(e, ipNameList)",
+			"",
+			"awsu.GetMachineInfo(",
+			"info.I",
+			"machine.I",
+			"aws startup.log",
+			"privateIp",
+			"privateIP",
+			"EIP",
+			"Ip",
+			"",
+			"\\n",
+			" ",
+			"\\t",
+			"",
+			"\", \"",
+			"",
+			"sudo rm",
+			"rm",
+			"'",
+			"",
+			"', '",
+			", ",
+			",",
+			"",
+			"    ",
+			"\\t",
+			"⏳",
+			"West",
+			"-instance",
+			" \"$log\"",
+			"spinup-instance",
+			"=\"",
+			"",
+			"Window"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1632,
+								1632
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cli/main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3627,
+								3627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"tab_size": null,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "marketplace_listing.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4437,
+								3943
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"tab_size": null,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "marketplace_order_messages.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"tab_size": null,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "user_collection_folder.go",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "marketplace_order.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1633,
+								1527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"tab_size": null,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 410.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/dfoltin/Documents/go/github.com/mrjones/oauth/oauth.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23484,
+								23484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 110.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 116.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "discogs_app.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
